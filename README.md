@@ -7,6 +7,9 @@ One of the most-visited cities in the world. There are many Airbnb listings in N
 <p align="center">
 ⚡
 </p>
+
+<p align="center">
 I recently completed this exciting data analysis project where I explored Airbnb listing data to provide valuable insights into the short-term rental market in New York City (a city that I personally love).
 This project was a great opportunity for me to enhance my data analysis skills to real-world datasets and derive meaningful insights. 
+</p>
 </p>
